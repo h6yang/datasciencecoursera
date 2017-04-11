@@ -1,7 +1,7 @@
 # some basic code for github
 
 # cd to the directory you want the code stay on your local
-cd /Users/hai/Documents/Personal/Data\ Scientist\ Learning/git
+cd ./Data\ Scientist\ Learning/git
 
 git init
 
