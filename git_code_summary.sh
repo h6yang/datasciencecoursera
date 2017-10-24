@@ -35,3 +35,6 @@ git push -f -u datasciencecoursera master
 # on other's github page, "fork" the repo; Then this repo will show on your github
 # after fork other's repo, clone to your local git 
 git clone https://github.com/h6yang/datasharing.git
+
+
+# try merge 
